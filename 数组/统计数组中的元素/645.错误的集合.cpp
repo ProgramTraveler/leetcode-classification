@@ -1,7 +1,7 @@
 class Solution {
 public:
     vector<int> findErrorNums(vector<int>& nums) {
-        unordered_map<int, int> cnt; // ¼ÇÂ¼³öÏÖµÄ´ÎÊı
+        unordered_map<int, int> cnt; // è®°å½•å‡ºç°çš„æ¬¡æ•°
         vector<int> res(2, -1);
 
         int n = nums.size();
