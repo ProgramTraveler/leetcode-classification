@@ -13,3 +13,8 @@
 * [495.提莫攻击](https://leetcode.cn/problems/teemo-attacking/description/)
 * [414.第三大的数](https://leetcode.cn/problems/third-maximum-number/description/) -> 合理利用 set 的属性
 * [628.三个数的最大乘积](https://leetcode.cn/problems/maximum-product-of-three-numbers/description/)
+
+## 统计数组中的元素
+
+* [645.错误的集合](https://leetcode.cn/problems/set-mismatch/description/)
+* [697.数组的度](https://leetcode.cn/problems/degree-of-an-array/description/)
