@@ -18,3 +18,7 @@
 
 * [645.错误的集合](https://leetcode.cn/problems/set-mismatch/description/)
 * [697.数组的度](https://leetcode.cn/problems/degree-of-an-array/description/)
+* [448.找到所有数组中消失的数字](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/description/)
+* [442.数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array/description/)
+* [41.缺失的第一个正数](https://leetcode.cn/problems/first-missing-positive/description/) -> 将数组构造为 hash
+* [274.H指数](https://leetcode.cn/problems/h-index/description/)
