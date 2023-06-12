@@ -33,3 +33,4 @@
 
 * [118.杨辉三角](https://leetcode.cn/problems/pascals-triangle/description/)
 * [119.杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/description/)
+* [661.图片平滑器](https://leetcode.cn/problems/image-smoother/description/)
