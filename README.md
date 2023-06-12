@@ -22,3 +22,14 @@
 * [442.数组中重复的数据](https://leetcode.cn/problems/find-all-duplicates-in-an-array/description/)
 * [41.缺失的第一个正数](https://leetcode.cn/problems/first-missing-positive/description/) -> 将数组构造为 hash
 * [274.H指数](https://leetcode.cn/problems/h-index/description/)
+
+## 数组的改变、移动
+
+* [453.最小操作次数使数组元素相等](https://leetcode.cn/problems/minimum-moves-to-equal-array-elements/description/) -> 逆向思维
+* [665.非递减数列](https://leetcode.cn/problems/non-decreasing-array/description/) -> 需要动态维护数组
+* [283.移动零](https://leetcode.cn/problems/move-zeroes/)
+
+## 二维数组及滚动数组
+
+* [118.杨辉三角](https://leetcode.cn/problems/pascals-triangle/description/)
+* [119.杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/description/)
