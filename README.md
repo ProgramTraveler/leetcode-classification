@@ -35,3 +35,9 @@
 * [119.杨辉三角 II](https://leetcode.cn/problems/pascals-triangle-ii/description/)
 * [661.图片平滑器](https://leetcode.cn/problems/image-smoother/description/)
 * [598.范围求和 II](https://leetcode.cn/problems/range-addition-ii/) -> 考验思维
+* [419.甲板上的战舰](https://leetcode.cn/problems/battleships-in-a-board/description/)
+
+## 数组的旋转
+
+* [189.轮转数组](https://leetcode.cn/problems/rotate-array/description/)
+* [396.旋转函数](https://leetcode.cn/problems/rotate-function/description/) -> 数学思想
